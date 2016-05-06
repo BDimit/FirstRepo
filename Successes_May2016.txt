@@ -1,0 +1,66 @@
+
+Michael Rajzman <MRajzman@globeandmail.com>
+
+
+
+.cse input.gsc-search-button, input.gsc-search-button {
+    /* font-family: inherit; */
+    font-size: 12px;
+    font-weight: bold;
+    color: #777;
+    padding: 3px 7px;
+    height: 22px;
+}
+
+
+
+To Remove: 
+http://globelink.ca/wp-content/uploads/2013/05/Alliance.jpg
+
+
+To Add: 
+
+
+
+
+
+
+
+
+
+Migrated GlobeLink’s search engine to Google Custom Site Search. 
+
+Implemented Rich Snippet tagging in our calendar opportunity pages.  This should improve associated content displayed on internal and external search results and help with SEO. 
+
+Created and deployed the ROB July/August promo email to our CRM contacts. 
+
+Received a $2500US service credit from our email supplier for escalating a bug issue on their latest product release. 
+
+Prototyping of new industry hub pages in GlobeLink.
+
+Further refinements to our new GMG weekly email template. 
+
+Resolved blog aggregation issue on Globe Edge section of GlobeLink. 
+
+Updates to the Cannes Lions hub on GlobeLink. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
